@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+#controls {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#controls button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#controls button:hover {
+    background-color: #0056b3;
+}
+
+#controls label {
+    margin-right: 10px;
+}
+
+#controls input[type="range"] {
+    width: 200px;
+}
+
+#generation {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+#grid-container {
+    display: flex;
+    justify-content: center;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: repeat(80, 15px); /* Adjusted grid size */
+    grid-template-rows: repeat(30, 15px);   /* Adjusted grid size */
+    gap: 1px;
+    background-color: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cell {
+    width: 15px;  /* Adjusted cell size */
+    height: 15px; /* Adjusted cell size */
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.cell.active {
+    background-color: #007bff;
+}
