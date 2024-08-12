@@ -13,5 +13,7 @@ Hiển thị thế hệ: Hiển thị số thế hệ hiện tại của mô ph�
 Cấu Trúc Dự Án
 ---
 index.html: File HTML chính, chứa cấu trúc và các thành phần của giao diện người dùng.
+
 styles.css: File CSS, chứa các kiểu dáng và bố cục của giao diện người dùng.
+
 script.js: File JavaScript, chứa logic của trò chơi và các sự kiện người dùng.
