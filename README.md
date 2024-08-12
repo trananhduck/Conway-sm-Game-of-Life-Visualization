@@ -4,11 +4,11 @@ Conway's Game of Life là một trò chơi trên ô lưới do nhà toán học 
 
 Chức Năng
 ---
-Bắt đầu: Bắt đầu mô phỏng.
-Dừng: Dừng mô phỏng.
-Xóa: Xóa tất cả các tế bào và đặt lại trò chơi về trạng thái ban đầu.
-Điều chỉnh tốc độ: Điều chỉnh tốc độ của mô phỏng.
-Hiển thị thế hệ: Hiển thị số thế hệ hiện tại của mô phỏng.
+- Bắt đầu: Bắt đầu mô phỏng.
+- Dừng: Dừng mô phỏng.
+- Xóa: Xóa tất cả các tế bào và đặt lại trò chơi về trạng thái ban đầu.
+- Điều chỉnh tốc độ: Điều chỉnh tốc độ của mô phỏng.
+- Hiển thị thế hệ: Hiển thị số thế hệ hiện tại của mô phỏng.
 
 Cấu Trúc Dự Án
 ---
