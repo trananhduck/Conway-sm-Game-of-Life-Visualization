@@ -1,6 +1,7 @@
 Giới Thiệu
 ---
 Conway's Game of Life là một trò chơi trên ô lưới do nhà toán học John Conway phát minh vào năm 1970. Đây là một trò chơi không có người chơi tham gia trực tiếp, mà sự tiến hóa của trò chơi được xác định bởi trạng thái ban đầu của nó. Người chơi chỉ cần thiết lập trạng thái ban đầu và sau đó quan sát trò chơi tiến triển.
+Link: https://trananhduck.github.io/Conway-sm-Game-of-Life-Visualization/game-of-life/
 
 Chức Năng
 ---
